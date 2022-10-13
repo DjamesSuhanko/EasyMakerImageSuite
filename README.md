@@ -26,7 +26,7 @@ Next step, you need to choice a conversion. The conversion is started imediately
 
 ### Monochrome
 
-In this tab, you can found informations about the changes made before. Size, dimensions and limits to consider black or white pixel. This conversion is useful to displays OLED 0.9 and 1.3 inches, or the e-ink MH-ET. This e-ink display is only monochrome too.
+In this tab, you can found informations about the changes made before. Size, dimensions and limits to consider black or white pixel. This conversion is useful to [displays OLED 0.9 and 1.3 inches](https://www.dobitaobyte.com.br/display-oled-com-mesmo-endereco-na-rpi-pico/), or the [e-ink MH-ET](https://www.dobitaobyte.com.br/display-e-ink-com-esp32-da-mh-et-live/). This e-ink display is only monochrome too.
 I don't know if the generated code is useful to Nokia displays. Let me know, if you try it.
 Another important widget here is the checkbox "Inverter". You can invert the black and white colors!
 
@@ -36,7 +36,7 @@ I will speak about code to display soon, don't worry.
 
 ### Grayscale
 
-Oh, man! Seems so simple, but grayscale convertion have a lot of characteristics. If you are using a T5 display, probably you never has made an image to play with. The grayscale used in this display is called "4 bit nibbles". Very complicated to explain, but I solved the problem to you. Just Click in Grayscale (Cinza) tab and see the magic happening.
+Oh, man! Seems so simple, but grayscale convertion have a lot of characteristics. If you are using a [T5 display](https://www.dobitaobyte.com.br/display-e-paper-t5-em-5-minutos/), probably you never has made an image to play with. The grayscale used in this display is called "4 bit nibbles". Very complicated to explain, but I solved the problem to you. Just Click in Grayscale (Cinza) tab and see the magic happening.
 The image 4 bits will look strange and darker then normal image. Don't worry. It's exactly what you need to see on a normal computer!
 
 If you whish a grayscale 8 bits, ok; just click on 256 tons radiobutton and click on Apply (Aplicar) button. The dial widget is just in case you wanna select the radiobutton without click. For now, is only for this.
